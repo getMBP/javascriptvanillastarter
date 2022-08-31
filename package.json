@@ -1,0 +1,22 @@
+{
+	"name": "componentprojects",
+	"version": "1.0.0",
+	"description": "",
+	"main": "react.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "parcel public/index.html"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@babel/cli": "^7.18.10",
+		"@babel/core": "^7.18.13",
+		"@parcel/transformer-sass": "^2.7.0",
+		"eslint": "^8.22.0",
+		"eslint-config-prettier": "^8.5.0",
+		"parcel": "^2.7.0",
+		"prettier": "^2.7.1"
+	}
+}
